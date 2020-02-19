@@ -1,6 +1,6 @@
 ### ZAPNEWS est une application React qui permet de consulter en temps réel les dernières actualités du web, classées par thèmes et en provenance d'une centaine de sources référencées
 
-Démo -> http://news.planetcode.fr
+Démo => http://news.planetcode.fr
 
 Le site a été réalisé à partir des données fournies par Newsapi.org
 
