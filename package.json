@@ -1,7 +1,7 @@
 {
   "name": "city-guide-tutorial",
   "version": "0.1.0",
-  "homepage": "http://symfony4.planetcode.fr",
+  "homepage": "http://news.planetcode.fr",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
